@@ -4,8 +4,6 @@ import {
   SiMacos,
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
-  SiVercel,
   SiMicrosoftteams,
   SiMicrosoftazure,
 } from "react-icons/si";
